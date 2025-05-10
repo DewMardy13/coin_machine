@@ -1,0 +1,12 @@
+com\asseco\challenge\Utilizador.class
+com\asseco\challenge\Maquina.class
+com\asseco\challenge\MaquinaApp.class
+com\asseco\challenge\dto\RespostaTransacaoDTO.class
+com\asseco\challenge\dto\PedidoTransacaoDTO.class
+com\asseco\challenge\AgregadoAcoesUser.class
+com\asseco\challenge\Config.class
+com\asseco\challenge\IteratorInterface.class
+com\asseco\challenge\IteratorM.class
+com\asseco\challenge\Acao.class
+com\asseco\challenge\AgregadoAcoes.class
+com\asseco\challenge\controlador\ControladorMoedas.class

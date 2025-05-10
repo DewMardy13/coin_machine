@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  coin-machine:
+    build: .                   
+    image: coin-machine:latest
+    ports:
+      - "8080:80"            
+    environment:
+      - SERVER_PORT=80 

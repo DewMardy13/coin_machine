@@ -20,6 +20,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: 17
+          distribution: 'temurin'
 
       #cache
       - name: Cache Maven
@@ -35,5 +36,6 @@ jobs:
       # Docker image
       - name: Build Docker image
         run: docker build -t ${{ github.repository }}:${{ github.sha }} .
+
 
       

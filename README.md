@@ -1,7 +1,7 @@
 ## 🚀 Instalação e Execução
 
 1. Pré-requisitos:
-    - Java 17
+    - Java
     - Maven
     - Docker
     - Docker Compose

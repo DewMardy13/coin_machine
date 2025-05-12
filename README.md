@@ -17,7 +17,7 @@
     http://localhost:8080/coins
 
     Envia um pedido POST com um body, ex:
-    curl -X POST http://localhost:8080/coins -H "Content-Type: application/json" -d "{\"leftPerson\":[\"P\",\"R\",\"R\"],\"rightPerson\":[\"P\",\"P\",\"R\"]}"
+    ```curl -X POST http://localhost:8080/coins -H "Content-Type: application/json" -d "{\"leftPerson\":[\"P\",\"R\",\"R\"],\"rightPerson\":[\"P\",\"P\",\"R\"]}"```
 
 -----------------------------------------------------------------------------
 
